@@ -1,7 +1,7 @@
  [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2020-12-21-how-we-built-the-github-globe%2F&psig=AOvVaw3iF1oRry51A2IIjlzDpgim&ust=1693578684942000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjzw7GOh4EDFQAAAAAdAAAAABAE)
 
 <h1 align="center">Hi 👋, I'm Ali EMRE</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate  developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
