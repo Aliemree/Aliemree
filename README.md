@@ -5,7 +5,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aticiadem&color=green" alt="aticiadem :: Profile Stats"></a>
+
 <a href="mailto:ali.emree.tr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ali.emree.tr@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/ali-emre-964723270/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@aliemree-blue?style=flat&logo=linkedin"></a>
 
