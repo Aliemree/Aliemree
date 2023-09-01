@@ -1,7 +1,7 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
 <h1 align="center">Hi 👋, I'm Ali EMRE,I am sharing my projects here.</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3> 
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
