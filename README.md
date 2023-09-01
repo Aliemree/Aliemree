@@ -6,11 +6,7 @@
 <p align="center">
 
 <a href="mailto:ali.emree.tr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ali.emree.tr@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/ali-emre-964723270/" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/ali-emre-964723270/"></a>
 
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://twitter.com/aliemr_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali_emre7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ali-emre-964723270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliemre" height="30" width="40" /></a>
 <a href="https://discord.gg/aliemree." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aliemree." height="30" width="40" /></a>
