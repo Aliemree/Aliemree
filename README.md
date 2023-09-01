@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi Welcome To My Github Profile 👋 👋 👋👋, I'm Ali EMRE,I am sharing my projects here.</h1>
+<h1 align="left">Hi Welcome To My Github Profile 👋 👋 , 
+ I'm Ali EMRE,I am sharing my projects here.
+</h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="mailto:ali.emree.tr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ali.emree.tr@gmail.com-blue?style=flat&logo=gmail"></a>
