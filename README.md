@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 
-I am a **3rd-year Computer Engineering student** at Recep Tayyip Erdoğan University and also the **Founder & Former President** of the Computer Engineering Community at my university.  
+I am a **4rd-year Computer Engineering student** at Recep Tayyip Erdoğan University and also the **Founder & Former President** of the Computer Engineering Community at my university.  
 
 As a **computer engineering student**, I have a deep passion for **Artificial Intelligence (AI), Natural Language Processing (NLP), and Machine Learning (ML)**. My primary focus areas are **Large Language Models (LLMs), text mining, and model optimization**.  
 
